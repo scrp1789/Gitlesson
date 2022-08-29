@@ -1,5 +1,4 @@
 # **EOS** 
-## **ARCHITECTURE & DESIGN**
 
 ![logo](5.png)
 
@@ -29,4 +28,4 @@
 
 почта: eos.architecture@gmail.com
 
- сайт: https://vk.com/eosarch
+сайт: https://vk.com/eosarch
