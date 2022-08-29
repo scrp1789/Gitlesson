@@ -1,4 +1,4 @@
-# **EOS** 
+# **EOS2** 
 ## **ARCHITECTURE & DESIGN**
 
 ![logo](5.png)
