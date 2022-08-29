@@ -28,5 +28,3 @@
 тел.: +7 (904) 055 - 99 - 51
 
 почта: eos.architecture@gmail.com
-
- сайт: https://vk.com/eosarch
